@@ -33,6 +33,3 @@ files = [
     "../../rtl/dma_if_axi.v"
 ]
 
-#modules = {
-#  "local" : [ "../../rtl" ],
-#}
